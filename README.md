@@ -85,11 +85,6 @@ I am **flexible and adaptive**, able to quickly learn and operate within your pr
 
 ---
 
-## 🖋️ License
-
-This project is open-source and free to use.  
-Feel free to modify and personalize this template for your own Virtual Assistant portfolio.
-
 ---
 
 
