@@ -82,12 +82,6 @@ I am **flexible and adaptive**, able to quickly learn and operate within your pr
 
 ---
 
-## 🧩 Project Details
-
-- **Project Title:** RM Virtual Solutions  
-- **Developer:** Robie Mae Trocio  
-- **Built With:** HTML5, CSS3  
-- **Hosted On:** GitHub Pages  
 
 ---
 
